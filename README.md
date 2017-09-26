@@ -1,13 +1,10 @@
-[![Build Status](https://img.shields.io/travis/atom-material/atom-material-ui.svg?style=flat-square)](https://travis-ci.org/atom-material/atom-material-ui)
-[![apm](https://img.shields.io/apm/dm/atom-material-ui.svg?style=flat-square)](https://atom.io/packages/atom-material-ui)
-[![apm](https://img.shields.io/apm/v/atom-material-ui.svg?style=flat-square)](https://atom.io/packages/atom-material-ui)
-[![apm](https://img.shields.io/apm/l/atom-material-ui.svg?style=flat-square)]()
 [![Gitter](https://img.shields.io/gitter/room/silvestreh/atom-material-ui.svg?style=flat-square)](https://gitter.im/silvestreh/atom-material-ui)
 [![Support AMU](https://img.shields.io/badge/donate-on%20pledgie-green.svg?style=flat-square)](https://pledgie.com/campaigns/29552)
 
 ![AMU](http://i.imgur.com/7C2H2mw.png)
 ---
 
+this is a fork of the original (atom-material-ui)[https://github.com/atom-material/atom-material-ui]
 A dynamic UI theme for Atom that (kinda) follows Google's Material Design Guidelines. Best with [Atom Material Syntax](https://github.com/atom-material/atom-material-syntax).
 
 Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).
