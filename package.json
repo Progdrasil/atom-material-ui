@@ -1,8 +1,9 @@
 {
-  "name": "atom-material-ui",
+  "name": "atom-material-one-ui",
   "theme": "ui",
   "version": "2.0.4",
-  "description": "A dynamic UI theme for Atom that follows Google's Material Design Guidelines",
+  "description":
+    "A dynamic UI theme for Atom that follows Google's Material Design Guidelines",
   "main": "./lib/main",
   "keywords": [
     "ui",
@@ -44,19 +45,22 @@
         },
         "accentColor": {
           "title": "Secondary color",
-          "description": "This color is used as an accent to the Primary Color.",
+          "description":
+            "This color is used as an accent to the Primary Color.",
           "type": "color",
           "default": "#FFFFFF"
         },
         "genAccent": {
           "title": "Generate complementary secondary color",
-          "description": "Generates a complementary color based on your selected Primary Color.",
+          "description":
+            "Generates a complementary color based on your selected Primary Color.",
           "type": "boolean",
           "default": false
         },
         "predefinedColor": {
           "title": "Predefined colors",
-          "description": "Pick a predefined color from the Material Design palette. If you change the Primary Color it will override this settings.",
+          "description":
+            "Pick a predefined color from the Material Design palette. If you change the Primary Color it will override this settings.",
           "type": "string",
           "enum": [
             "Amber",
@@ -78,7 +82,8 @@
         },
         "paintCursor": {
           "title": "Paint text editor's cursor",
-          "description": "Overrides the syntax theme's cursor color with the selected Primary Color.",
+          "description":
+            "Overrides the syntax theme's cursor color with the selected Primary Color.",
           "type": "boolean",
           "default": false
         }
@@ -91,13 +96,15 @@
       "properties": {
         "useAnimations": {
           "title": "Use animations",
-          "description": "Enables animations for clicked tabs and other UI elements.",
+          "description":
+            "Enables animations for clicked tabs and other UI elements.",
           "type": "boolean",
           "default": true
         },
         "panelContrast": {
           "title": "Contrasting panels",
-          "description": "Adds a little contrast between panels to differentiate where one starts and the other ends.",
+          "description":
+            "Adds a little contrast between panels to differentiate where one starts and the other ends.",
           "type": "boolean",
           "default": false
         },
@@ -116,7 +123,8 @@
       "properties": {
         "compactTabs": {
           "title": "Compact tab bar",
-          "description": "Reduces line height so the tab bar won't be too tall.",
+          "description":
+            "Reduces line height so the tab bar won't be too tall.",
           "type": "boolean",
           "default": false
         },
